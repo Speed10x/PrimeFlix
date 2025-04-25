@@ -8,42 +8,42 @@ export default function FeaturesSection() {
       title: "Ad-Free Experience",
       description: "Enjoy uninterrupted Movies and Adult Content without any advertisements or disruptions.",
       linkText: "Go Premium",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     },
     {
       icon: <Download className="text-teal-500" />,
       title: "Unlimited Downloads",
       description: "Download as much content as you want for offline viewing, with no daily limits.",
       linkText: "Learn more",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     },
     {
       icon: <Shield className="text-purple-500" />,
       title: "Priority Support",
       description: "Get faster responses from our support team when you need assistance.",
       linkText: "Get support",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     },
     {
       icon: <Zap className="text-amber-500" />,
       title: "Enhanced Performance",
       description: "Experience faster downloads and smoother playback with high quality files.",
       linkText: "See details",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     },
     {
       icon: <Award className="text-red-500" />,
       title: "Exclusive Content",
       description: "Access premium content and features that are only available to subscribers.",
       linkText: "View exclusives",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     },
     {
       icon: <Headphones className="text-green-500" />,
       title: "High Quality Audio",
       description: "Enjoy enhanced audio quality for a more immersive viewing experience.",
       linkText: "Try it now",
-      link: "https://t.me/Premium_Fliix/23"
+      link: "https://t.me/prime_Flix0"
     }
   ];
 
