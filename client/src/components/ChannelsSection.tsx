@@ -59,25 +59,25 @@ export default function ChannelsSection() {
       title: "Movies Channel",
       description: "Access to the latest movies, exclusive releases, and high-quality downloads.",
       icon: <Film className="h-6 w-6" />,
-      subscriberCount: "15k+",
+      subscriberCount: "8k+",
       category: "Movies",
-      link: "https://t.me/movieflixspot"
+      link: "https://t.me/RexieCatX_Bott"
     },
     {
       title: "Series Flix",
       description: "Premium TV shows and series from around the world with subtitles and no ads.",
       icon: <Video className="h-6 w-6" />,
-      subscriberCount: "40K+",
+      subscriberCount: "1.5K+",
       category: "TV Shows",
-      link: "https://t.me/seriesflix_verse"
+      link: "https://t.me/MoviesBizzChatt"
     },
     {
-      title: "Doujinshi Flix",
+      title: "Nothing To Wry",
       description: "Exclusive Adult Manga content, early releases, and special collections for H-Manga fans.",
       icon: <BookOpen className="h-6 w-6" />,
       subscriberCount: "5K+",
       category: "Doujinshi",
-      link: "https://t.me/hanime_arena"
+      link: "https://t.me/+AdWNXT0Lvb82MTA1"
     },
     {
       title: "Music Channel",
@@ -85,7 +85,7 @@ export default function ChannelsSection() {
       icon: <Music className="h-6 w-6" />,
       subscriberCount: "1K+",
       category: "Music",
-      link: "https://t.me/otakuflix_network"
+      link: "https://t.me/prime_Flix0"
     },
     {
       title: "Adult Flix",
@@ -93,15 +93,15 @@ export default function ChannelsSection() {
       icon: <Globe className="h-6 w-6" />,
       subscriberCount: "10K+",
       category: "Adult",
-      link: "https://t.me/hanime_arena"
+      link: "https://t.me/+AdWNXT0Lvb82MTA1"
     },
     {
-      title: "Otaku Community",
+      title: "Prime Community",
       description: "Exclusive group for creative professionals with resources and networking.",
       icon: <MessageCircle className="h-6 w-6" />,
       subscriberCount: "100K+",
       category: "Community",
-      link: "https://t.me/otakuflix_network"
+      link: "https://t.me/prime_Flix0"
     },
   ];
 
