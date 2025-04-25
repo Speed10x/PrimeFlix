@@ -224,7 +224,7 @@ export default function ContactPage() {
                           variant="outline" 
                           size="lg"
                           className="w-full border-[#5f6df8] text-[#5f6df8] hover:bg-[#5f6df8]/10 dark:hover:bg-[#5f6df8]/20 py-6 text-lg"
-                          onClick={() => window.open("https://t.me/ProYato", '_blank')}
+                          onClick={() => window.open("https://t.me/maximize0", '_blank')}
                         >
                           <FaTelegram className="mr-2 h-5 w-5" />
                           Send Payment Proof
@@ -271,7 +271,7 @@ export default function ContactPage() {
                           size="lg"
                           variant="outline"
                           className="w-full border-orange-500 text-orange-500 hover:bg-orange-50 dark:hover:bg-orange-900/20 py-6 text-lg"
-                          onClick={() => window.open("https://t.me/ProYato", '_blank')}
+                          onClick={() => window.open("https://t.me/maximize0", '_blank')}
                         >
                           <FaTelegram className="mr-2 h-5 w-5" />
                           Send Transaction Hash
@@ -288,7 +288,7 @@ export default function ContactPage() {
                   
                   <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-4 text-center">
                     <p className="text-blue-700 dark:text-blue-300 font-medium">
-                      After payment, send the proof to @ProYato on Telegram for instant activation
+                      After payment, send the proof to @maximize0 on Telegram for instant activation
                     </p>
                   </div>
                 </TabsContent>
@@ -305,7 +305,7 @@ export default function ContactPage() {
     
     <Button 
       className="bg-[#0088cc] hover:bg-[#0077b5] text-white px-6 py-3 w-full max-w-xs mx-auto"
-      onClick={() => window.open("https://t.me/ProYato", '_blank')}
+      onClick={() => window.open("https://t.me/maximize0", '_blank')}
     >
       <FaTelegram className="mr-2" />
       Message Us on Telegram
