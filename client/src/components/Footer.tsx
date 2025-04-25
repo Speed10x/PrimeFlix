@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="mb-4 md:mb-0">
             <div className="flex items-center">
               <AniyomiLogo className="h-8 w-8" />
-              <span className="ml-2 font-semibold dark:text-white text-gray-900">Premium Flix</span>
+              <span className="ml-2 font-semibold dark:text-white text-gray-900">Prime Flix</span>
             </div>
             <p className="text-sm dark:text-gray-400 text-gray-600 mt-2">Premium Channel Plans subscription service</p>
           </div>
@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-6 border-t dark:border-gray-800 border-gray-200 text-center text-sm dark:text-gray-400 text-gray-600">
-          <p>© {new Date().getFullYear()} Premium Flix. Not affiliated with or endorsed by Telegram Inc.</p>
+          <p>© {new Date().getFullYear()} Prime Flix. Not affiliated with or endorsed by Telegram Inc.</p>
         </div>
       </div>
     </footer>
