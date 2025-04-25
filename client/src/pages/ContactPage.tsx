@@ -17,9 +17,9 @@ export default function ContactPage() {
   const [currency, setCurrency] = useState<string>("₹");
   const [copied, setCopied] = useState(false);
 
-  const UPI_ID = "rohit1234@fam";
-  const PAYPAL_EMAIL = "premium@yourdomain.com";
-  const BITCOIN_ADDRESS = "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5";
+  const UPI_ID = "paytohemant@fam";
+  const PAYPAL_EMAIL = "soon";
+  const BITCOIN_ADDRESS = "soon";
 
   useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search);
