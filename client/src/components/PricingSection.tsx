@@ -121,7 +121,7 @@ export default function PricingSection() {
   const plans = [
     {
       title: "1 Month",
-      price: "₹130",
+      price: "₹20",
       priceUSD: "$1.50",
       period: "month",
       description: "Single month access to premium channels",
@@ -138,7 +138,7 @@ export default function PricingSection() {
     },
     {
       title: "2 Months",
-      price: "₹200",
+      price: "₹40",
       priceUSD: "$2.40",
       period: "2 months",
       discount: "Save ₹60 compared to monthly",
@@ -157,7 +157,7 @@ export default function PricingSection() {
     },
     {
       title: "3 Months",
-      price: "₹260",
+      price: "₹50",
       priceUSD: "$3.00",
       period: "3 months",
       discount: "Save ₹140 compared to monthly",
